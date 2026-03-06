@@ -67,4 +67,6 @@ id_rsa
 .dockerignore
 
 # === AI Monitoring Data ===
-ai-monitoring/data/
+ai-monitoring/data
+
+.git
